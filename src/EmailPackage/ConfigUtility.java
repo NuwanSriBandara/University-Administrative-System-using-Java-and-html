@@ -18,8 +18,8 @@ public class ConfigUtility {
         // sets default properties
         defaultProps.setProperty("mail.smtp.host", "smtp.gmail.com");
         defaultProps.setProperty("mail.smtp.port", "587");
-        defaultProps.setProperty("mail.user", "risisandasri@gmail.com");
-        defaultProps.setProperty("mail.password", "risisanda008SRI");
+        defaultProps.setProperty("mail.user", "*****");
+        defaultProps.setProperty("mail.password", "*****");
         defaultProps.setProperty("mail.smtp.starttls.enable", "true");
         defaultProps.setProperty("mail.smtp.auth", "true");
          
