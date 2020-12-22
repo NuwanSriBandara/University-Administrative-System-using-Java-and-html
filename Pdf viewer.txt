@@ -1,0 +1,29 @@
+try{
+Runtime.getRuntime().excec("rund1132 url.dll, FileProtocolHandler"+"Path");
+}
+catch(Exception ex){
+}
+
+Image Upload:
+
+The code that does the magic is below
+
+      FileFilter ff = new FileNameExtensionFilter("images","jpeg");
+        fc.addChoosableFileFilter(ff);
+        int open = fc.showOpenDialog(this);
+
+        if (open == javax.swing.JFileChooser.APPROVE_OPTION){
+
+            java.io.File path = fc.getSelectedFile();
+
+            String file_name = path.toString();
+
+            pathe.setText(file_name);
+
+          BufferedImage bi; // bi is the object of the class BufferedImage
+// Now you use try and catch `enter code here`
+
+try{
+bi = ImageIO.read(path); // path is your file or image path
+jlabel.setIcon( new ImageIcon(bi));
+}catch(IOException e){ }

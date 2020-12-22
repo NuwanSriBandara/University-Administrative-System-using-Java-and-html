@@ -1,0 +1,5 @@
+ACA
+STP
+STU
+NAC
+OTH
