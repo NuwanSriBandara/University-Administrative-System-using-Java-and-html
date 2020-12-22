@@ -12,9 +12,9 @@ import javax.swing.JOptionPane;
 
 public class Database {
     
-    public static String url="jdbc:mysql://localhost:3307/university";
-    public static String user="root";
-    public static String password="123";
+    public static String url="jdbc:mysql://localhost:3307/*****";
+    public static String user="*****";
+    public static String password="*****";
     public static Connection con=null;
     
     public static Connection getDatabaseConnection(){
