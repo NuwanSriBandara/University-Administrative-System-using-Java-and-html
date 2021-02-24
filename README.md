@@ -4,8 +4,5 @@ This project was conducted as a partial fulfillment of the course: Certified Pro
 ![](Images/Login.PNG)
 Figure 1: Login page of the developed management system
 
-![](Images/Registration.PNG)
-Figure 2: Registration Page of the developed management system
-
 ![](Images/Management1.PNG)
 Figure 3: Management Page of an admin user in the system
