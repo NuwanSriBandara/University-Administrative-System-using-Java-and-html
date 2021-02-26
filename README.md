@@ -4,5 +4,5 @@ This project was conducted as a partial fulfillment of the course: Certified Pro
 ![](Images/Login.PNG) <br />
 Figure 1: Login page of the developed management system
 
-![](Images/Management1.PNG)
+<img src="https://github.com/NuwanSriBandara/University-Management-System-using-Java-and-html/blob/main/Images/Management1.PNG" width="500">
 Figure 2: Management page of an admin user in the system
